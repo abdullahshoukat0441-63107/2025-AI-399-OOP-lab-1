@@ -1,2 +1,2 @@
-# 2025-AI-399-OOP-lab-1
+# 2025-AI-399
 First Lab of OOP
